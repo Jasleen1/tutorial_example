@@ -1,0 +1,13 @@
+[package]
+name = "tutorial_example"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+displaydoc = "0.1.7"
+winter-math = "0.4.0"
+winter-utils = "0.4.0"
+winter-crypto = "0.4.0"
+winter-examples = "0.4.0"
